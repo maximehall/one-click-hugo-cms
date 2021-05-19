@@ -1,9 +1,9 @@
 ---
 title: "South West "
-subtitle: Nouvelle collection été disponible
+subtitle: The Cotton Company
 image: img/134000635_2720820344837926_5617358630893280183_n.jpg
 blurb:
-  heading: Pourquoi South West ?
+  heading: Nouvelle collection été disponible
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
