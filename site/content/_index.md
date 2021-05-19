@@ -13,14 +13,8 @@ intro:
   text: Art de vivre à la cool, décontracté, pour toute la famille, nous vous
     proposons une large gamme de produits reflétants l'art de vivre du surf.
 products:
-  - image: img/upscale-270612549036211.png
-    text: Art de vivre à la cool, décontracté, pour toute la famille, nous vous
-      proposons une large gamme de produits reflétants l'art de vivre du surf.
-  - image: img/surfing-png-clipart.png
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/187815794_2815862592000367_285995284025273361_n.jpg
+    text: Nouvelle collection disponible !
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
