@@ -1,7 +1,7 @@
 ---
 title: "South West "
 subtitle: Nouvelle collection été disponible
-image: img/logo-south-west.jpg
+image: img/134000635_2720820344837926_5617358630893280183_n.jpg
 blurb:
   heading: Pourquoi South West ?
   text: Kaldi is the coffee store for everyone who believes that great coffee
