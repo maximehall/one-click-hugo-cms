@@ -4,12 +4,14 @@ subtitle: The Cotton Company
 image: img/134000635_2720820344837926_5617358630893280183_n.jpg
 blurb:
   heading: "L'histoire  "
-  text: Crée dans les Landes en 2006, South West est une marque qui reflète l'art
+  text: "Crée dans les Landes en 2006, South West est une marque qui reflète l'art
     de vivre du Pays Basque. Développée par les frères Marès, cette marque a su
     se créer une place dans l'industrie du textile dans le sud ouest.
+    Conceptualisé à Anglet, tous nos produits sont traités dans la région. "
 intro:
-  heading: Notre engagement
-  text: "Conceptualisé à Anglet, tous nos produits sont traités dans le sud ouest. "
+  heading: Nouveautés
+  text: Art de vivre à la cool, décontracté, pour toute la famille, nous vous
+    proposons une large gamme de produits reflétants l'art de vivre du surf.
 products:
   - image: img/upscale-270612549036211.png
     text: Art de vivre à la cool, décontracté, pour toute la famille, nous vous
